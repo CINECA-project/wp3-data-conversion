@@ -1,0 +1,16 @@
+FIELD,DATA_TYPE,MAPPING
+demographic.age,string,age
+demographic.gender,string,gender
+lifestyle.tobacco,string,sbsmk
+lifestyle.physicalActivity,string,phyact
+diseases.other,[string],dginvtx1
+diseases.other,[string],dginvtx2
+diseases.other,[string],dginvtx3
+diseases.other,[string],dginvtx4
+physiologicalMeasurements.anthropometry.weight,string,wt
+physiologicalMeasurements.anthropometry.height,string,ht
+physiologicalMeasurements.circulationAndRespiration.heartRate,string,HRTRTE
+medication.other,[string],cmatccd1_1
+medication.other,[string],cmatccd1_2
+medication.other,[string],cmatccd1_3
+medication.other,[string],cmatccd1_4

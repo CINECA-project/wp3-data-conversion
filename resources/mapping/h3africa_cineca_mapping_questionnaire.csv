@@ -1,0 +1,41 @@
+FIELD,DATA_TYPE,ONTOLOGY,MAPPING
+demographic.age,string,NCIT:C25150,Age at baseline
+demographic.birthDate,string,NCIT:C68615,NULL
+demographic.biologicalSex,string,NCIT:C28421,Sex
+demographic.gender,[string],NCIT:C17357,NULL
+demographic.ethnicity,[string],NCIT:C16564,Ethno-linguistic tribal affiliation
+demographic.ethnicity,[string],NCIT:C17049,NULL
+demographic.genealogy,[string],NCIT_XXXXXX,NULL
+demographic.birthPlace,[string],NCIT_XXXXXX,NULL
+demographic.residence,[string],NCIT:C25273,Country of residence
+demographic.education,[string],NCIT:C16529,Educational Status
+demographic.householdStructure,[string],NCIT_XXXXXX,NULL
+lifestyle.tobacco,[string],NCIT:C29719,Smoking
+lifestyle.alcohol,[string],NCIT:C81229,Alcohol
+lifestyle.physicalActivity,[string],NCIT:C120914,NULL
+lifestyle.sleep,[string],NCIT:C73425,NULL
+lifestyle.nutrition,[string],NCIT:C28294,Diet
+Physician,[string],NCIT:C51798,NULL
+diseases.bloodRelatedDisorders,[string],NCIT:C35814,NULL
+diseases.endocrine,[string],NCIT_C3009,NULL
+diseases.mentalAndBehaviourDisorders,[string],NCIT:C2893,NULL
+diseases.mentalAndBehaviourDisorders,[string],NCIT:C35470,NULL
+diseases.nervousSystem,[string],NCIT:C26835,NULL
+diseases.digestiveSystem,[string],NCIT:C2990,NULL
+diseases.respiratorySystem,[string],NCIT:C26871,Asthma
+diseases.circulatorySystem,[string],NCIT:C2931,Cardiovascular Disease
+diseases.oncological,[string],NCIT:C8278,Cancer
+diseases.other,[string],NCIT_XXXXXX,NULL
+symptoms,[string],NCIT_XXXXXX,NULL
+physiologicalMeasurements.anthropometry.weight,[string],NCIT:C25208,Weight
+physiologicalMeasurements.anthropometry.height,[string],NCIT:C25347,Height
+physiologicalMeasurements.circulationAndRespiration.bloodPressure,[string],NCIT:C54706,Blood Pressure / Hypertension
+physiologicalMeasurements.circulationAndRespiration.heartRate,[string],NCIT:C49677,NULL
+nonPharmacologicalInterventions.surgicalInterventions,[string],NCIT_C119212,NULL
+medication.associatedDiseases,[string],NCIT_XXXXXX,NULL
+medication.prescription,[string],NCIT:C28180,NULL
+medication.drugResponse,[string],NCIT_XXXXXX,NULL
+medication.posology,[string],NCIT:C142516,NULL
+medication.administrationMethod,[string],NCIT_XXXXXX,NULL
+medication.other,[string],NCIT_XXXXXX,NULL
+lifeStage,[string],NCIT:C89335,NULL
